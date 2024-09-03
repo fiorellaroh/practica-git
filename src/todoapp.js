@@ -23,7 +23,8 @@ const completeTask = (name) => {
 }
 
 const uncompleteTask = (name) => {
-    // TODO
+    const task = tasks.find(task => task.name === name);
+    task.done = true;
 }
 
 const addTimer = (name, time) => {

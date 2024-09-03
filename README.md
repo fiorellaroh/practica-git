@@ -1,8 +1,8 @@
 # 📝 Ejercicio ToDo App
 
 *:warning: Importante:* escribir nombre y número de estudiante en la línea siguiente:  
-- Nombre: XXXXXXXX  
-- Número de estudiante: XXXXXXXX
+- Nombre: Ale 
+- Número de estudiante: 123456
 
 Una vez creado el repositorio GitHub, debe clonarlo para trabajar localmente. Debe instalar previamente: **Git**, **Visual Studio Code** y haber realizado la autenticación en **GitHub**.
 

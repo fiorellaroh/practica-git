@@ -2,7 +2,7 @@
 
 *:warning: Importante:* escribir nombre y número de estudiante en la línea siguiente:  
 - Nombre: Ale 
-- Número de estudiante: 123456
+- Número de estudiante: 1234567
 
 Una vez creado el repositorio GitHub, debe clonarlo para trabajar localmente. Debe instalar previamente: **Git**, **Visual Studio Code** y haber realizado la autenticación en **GitHub**.
 
